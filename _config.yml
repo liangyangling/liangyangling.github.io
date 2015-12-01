@@ -1,0 +1,10 @@
+# Site settings
+title: Gephi - The Open Graph Viz Platform
+email: contact@gephi.org
+description: ""
+baseurl: ""
+url: "http://gephi.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
